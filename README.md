@@ -1,5 +1,5 @@
 # Unemployment Analysis in India (COVID-19 Impact)
-
+🔗 **Live Dashboard:** https://unemployment-analysis-python-a6pqrzeesh4hpt7nojek47.streamlit.app
 ## Problem Statement
 Analyze unemployment rate data across Indian states to understand trends over time, with a specific focus on the impact of the COVID-19 lockdown (2020) on employment.
 
@@ -64,6 +64,7 @@ unemployment-analysis-python/
 These findings could inform targeted economic relief: states and urban centers that saw the sharpest unemployment spikes may have needed more aggressive, timely support measures than the national average would suggest.
 
 ## Interactive Dashboard
+🔗 **Live Dashboard:** https://unemployment-analysis-python-a6pqrzeesh4hpt7nojek47.streamlit.app
 An interactive Streamlit dashboard is included (`app.py`), allowing users to filter by state and area type (Rural/Urban) and view live-updating statistics and trend charts.
 
 ## Installation
@@ -82,7 +83,7 @@ pip install -r requirements.txt
 ## Future Improvements
 - Extend analysis with more recent data (post-June 2020) to assess recovery
 - Add a simple forecasting model
-- Deploy the dashboard publicly via Streamlit Community Cloud
+- Add authentication or caching for faster dashboard load times
 
 ## Author
 Sirivarshini — B.Tech Data Science Student, CodeAlpha Data Science Internship
