@@ -68,7 +68,7 @@ An interactive Streamlit dashboard is included (`app.py`), allowing users to fil
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+   git clone https://github.com/sirivarshini7161/unemployment-analysis-python.git
 cd unemployment-analysis-python
 python -m venv venv
 venv\Scripts\activate        # Windows
