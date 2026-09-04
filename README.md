@@ -53,7 +53,14 @@ unemployment-analysis-python/
 - State-wise ranking of COVID impact
 - Distribution analysis (box plot)
 - Correlation check between Labour Participation Rate and Unemployment Rate
+### National Trend
+![National Trend](visualizations/01_national_trend.png)
 
+### Pre-COVID vs During COVID
+![Pre vs During COVID](visualizations/02_pre_vs_during_covid.png)
+
+### Top 10 States by Impact
+![Top 10 States](visualizations/04_top10_states_increase.png)
 ## Key Insights
 - **National unemployment nearly doubled during COVID**: average rate rose from 9.51% (pre-COVID) to 17.77% (Mar–Jun 2020), an increase of 8.26 percentage points (86.9% relative increase)
 - **Urban areas were hit harder than Rural areas**, peaking at ~28% (Urban, May 2020) vs ~22% (Rural, April 2020)
